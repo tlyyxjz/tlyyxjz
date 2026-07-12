@@ -45,10 +45,23 @@ Data Processing  |  REST APIs  |  Clean Architecture
 
 ## 🆓 Free Online Tools
 
+### CSV Tools
 | Tool | Description | Link |
 |------|-------------|------|
-| CSV Cleaner Free | Free online CSV cleaner - remove duplicates, trim whitespace, delete empty rows | [csv-cleaner-free](https://tlyyxjz.github.io/csv-cleaner-free/) |
+| CSV Cleaner Free | Remove duplicates, trim whitespace, delete empty rows | [csv-cleaner-free](https://tlyyxjz.github.io/csv-cleaner-free/) |
+| CSV to JSON Converter | Convert CSV to JSON with nested object support | [csv-to-json](https://tlyyxjz.github.io/free-dev-tools/csv_to_json.html) |
 | CSV Tools Comparison | Compare CSV cleaning tools side by side | [csv-tools-comparison](https://tlyyxjz.github.io/csv-tools-comparison/) |
 | Awesome CSV Tools | Curated list of CSV tools | [awesome-csv-tools](https://github.com/tlyyxjz/awesome-csv-tools) |
-| Digital Store | All products in one place | [digital-store](https://tlyyxjz.github.io/digital-store/) |
 
+### Developer Tools
+| Tool | Description | Link |
+|------|-------------|------|
+| JSON Formatter | Beautify, minify, and validate JSON | [json-formatter](https://tlyyxjz.github.io/free-dev-tools/json_formatter.html) |
+| Base64 Encoder/Decoder | Encode/decode Base64 with UTF-8 support | [base64-tool](https://tlyyxjz.github.io/free-dev-tools/base64_tool.html) |
+| Dev Toolbox | All free tools in one place | [free-dev-tools](https://tlyyxjz.github.io/free-dev-tools/) |
+
+### Stores & Blogs
+| Site | Description | Link |
+|------|-------------|------|
+| Digital Store | All products in one place | [digital-store](https://tlyyxjz.github.io/digital-store/) |
+| Tech Blog | Development tutorials and articles | [blog](https://tlyyxjz.github.io/tlyyxjz/) |
