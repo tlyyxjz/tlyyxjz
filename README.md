@@ -41,3 +41,14 @@ Data Processing  |  REST APIs  |  Clean Architecture
 ---
 
 *"I'd rather 2,400 people pay $9 than 24 people pay $90."*
+
+
+## 🆓 Free Online Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| CSV Cleaner Free | Free online CSV cleaner - remove duplicates, trim whitespace, delete empty rows | [csv-cleaner-free](https://tlyyxjz.github.io/csv-cleaner-free/) |
+| CSV Tools Comparison | Compare CSV cleaning tools side by side | [csv-tools-comparison](https://tlyyxjz.github.io/csv-tools-comparison/) |
+| Awesome CSV Tools | Curated list of CSV tools | [awesome-csv-tools](https://github.com/tlyyxjz/awesome-csv-tools) |
+| Digital Store | All products in one place | [digital-store](https://tlyyxjz.github.io/digital-store/) |
+
