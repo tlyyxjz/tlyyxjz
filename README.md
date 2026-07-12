@@ -65,3 +65,17 @@ Data Processing  |  REST APIs  |  Clean Architecture
 |------|-------------|------|
 | Digital Store | All products in one place | [digital-store](https://tlyyxjz.github.io/digital-store/) |
 | Tech Blog | Development tutorials and articles | [blog](https://tlyyxjz.github.io/tlyyxjz/) |
+
+
+## 🏷️ Discount Codes
+
+Save on our premium products with these active discount codes:
+
+| Code | Discount | Applicable To |
+|------|----------|---------------|
+| `SAVE20` | 20% OFF | ALL products |
+| `LAUNCH50` | 50% OFF | CS Student OS |
+| `CSV15` | 15% OFF | CSV Sweeper |
+| `PROMPT10` | 10% OFF | PromptVault |
+
+👉 [View all discount codes](https://tlyyxjz.github.io/digital-store/discounts.html)
