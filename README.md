@@ -1,14 +1,23 @@
 ## Hi there 👋
 
-I'm a CS student and developer building tools people actually use. Currently shipping products in **Python**, **Go**, and **Chrome Extensions**.
+I'm a 19-year-old CS student and developer building tools people actually use. Currently shipping products in **Python**, **Go**, and **Chrome Extensions**.
 
-### 🔧 What I build
+### 🚀 Digital Products
 
-- **CSV Sweeper** — Desktop app (Python + Go) that cleans messy CSV files in seconds. [Try it →](https://tlyyxjz.github.io/csv-sweeper-landing/)
-- **PromptVault** — Chrome Extension to manage AI prompts across ChatGPT/Claude/Gemini. [Source →](https://github.com/tlyyxjz/promptvault)
+| Product | Description | Price | Link |
+|---------|-------------|-------|------|
+| **CSV Sweeper** | Clean messy CSV files in seconds — dedup, filter, transform | $9+ | [Buy →](https://8837207235283.gumroad.com/l/tijdn) |
+| **PromptVault** | Chrome Extension to save & insert AI prompts in one click | $15 | [Buy →](https://8837207235283.gumroad.com/l/eaqoat) |
+| **CS Student OS** | All-in-one Notion template for CS students — GPA, LeetCode, internships | $12+ | [Buy →](https://8837207235283.gumroad.com/l/cs-student-os) |
+| **SubTracker** | Local subscription tracker — stop paying for what you forgot | $5+ | [Buy →](https://8837207235283.gumroad.com/l/uackeo) |
+
+### 🔧 Open Source Projects
+
+- **[CSV Sweeper](https://github.com/tlyyxjz/csv-sweeper-landing)** — Desktop app (Python + Go) that cleans messy CSV files in seconds. [Landing Page →](https://tlyyxjz.github.io/csv-sweeper-landing/)
+- **[PromptVault](https://github.com/tlyyxjz/promptvault)** — Chrome Extension to manage AI prompts across ChatGPT/Claude/Gemini.
 - **DevFlow** — Go REST API with JWT auth, WebSocket, Redis rate limiting, 87% test coverage.
 
-### 🛠 Tech stack
+### 🛠 Tech Stack
 
 ```
 Python  |  Go  |  JavaScript  |  Chrome Extensions
@@ -16,10 +25,11 @@ pandas  |  Gin  |  GORM  |  Redis  |  Docker  |  PostgreSQL
 Data Processing  |  REST APIs  |  Clean Architecture
 ```
 
-### 📫 Reach me
+### 📫 Reach Me
 
 - **Gumroad**: [My digital products](https://8837207235283.gumroad.com/)
 - **Fiverr**: Available for freelance work
+- **Email**: 13566878907@163.com
 
 ---
 
