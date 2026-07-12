@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tlyyxjz — Building tools people actually use</title>
+    <meta name="description" content="A 19-year-old CS student building Python, Go, and Chrome Extension tools. Blog posts on CSV cleaning, AI prompt management, Notion templates, and subscription tracking.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #2d2d2d;
+            background: #faf8f5;
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        header { text-align: center; margin-bottom: 60px; }
+        h1 { font-size: 1.8rem; margin-bottom: 8px; }
+        .tagline { color: #666; font-size: 1rem; }
+        .posts { margin-bottom: 60px; }
+        .post {
+            border-bottom: 1px solid #e8e4df;
+            padding: 28px 0;
+        }
+        .post:last-child { border-bottom: none; }
+        .post-title {
+            font-size: 1.3rem;
+            margin-bottom: 6px;
+        }
+        .post-title a {
+            color: #1a1a1a;
+            text-decoration: none;
+        }
+        .post-title a:hover { color: #c44536; }
+        .post-excerpt {
+            color: #555;
+            font-size: 0.95rem;
+            margin-bottom: 8px;
+        }
+        .post-meta {
+            color: #999;
+            font-size: 0.8rem;
+        }
+        .post-meta a {
+            color: #c44536;
+            text-decoration: none;
+        }
+        .products {
+            background: #fff;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .products h2 { margin-bottom: 20px; font-size: 1.2rem; }
+        .product {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid #f0ede9;
+        }
+        .product:last-child { border-bottom: none; }
+        .product-name { font-weight: 600; }
+        .product-price { color: #c44536; font-weight: 600; }
+        .product a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .product a:hover { opacity: 0.8; }
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            color: #999;
+            font-size: 0.85rem;
+        }
+        footer a { color: #c44536; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Building tools people actually use</h1>
+        <p class="tagline">A 19-year-old CS student shipping Python, Go, and Chrome Extension products.</p>
+    </header>
+
+    <section class="posts">
+        <div class="post">
+            <h2 class="post-title"><a href="posts/csv-sweeper.md">I Built a Tool to Clean Messy CSV Files. Here's Every Bug I Hit.</a></h2>
+            <p class="post-excerpt">Encoding detection, CSV formula injection, memory bombs, and undo stacks — a Python deep-dive with real code from building a desktop CSV cleaner.</p>
+            <p class="post-meta">Technical · Python · <a href="https://8837207235283.gumroad.com/l/tijdn">Get CSV Sweeper →</a></p>
+        </div>
+
+        <div class="post">
+            <h2 class="post-title"><a href="posts/promptvault.md">I Built a Chrome Extension to Manage 200+ AI Prompts</a></h2>
+            <p class="post-excerpt">MV3 architecture, content script injection across ChatGPT/Claude/Gemini, and the CSP nightmares along the way. Real code, real bugs, real fixes.</p>
+            <p class="post-meta">Technical · Chrome Extension · <a href="https://8837207235283.gumroad.com/l/eaqoat">Get PromptVault →</a></p>
+        </div>
+
+        <div class="post">
+            <h2 class="post-title"><a href="posts/cs-student-os.md">How I Built a Notion OS for My CS Degree</a></h2>
+            <p class="post-excerpt">GPA tracking, LeetCode spaced repetition, internship pipeline — all in one Notion workspace. Formulas, rollups, and templates included.</p>
+            <p class="post-meta">Notion · Student Productivity · <a href="https://8837207235283.gumroad.com/l/cs-student-os">Get CS Student OS →</a></p>
+        </div>
+
+        <div class="post">
+            <h2 class="post-title"><a href="posts/subtracker.md">I Was Bleeding $89/Month on Subscriptions I Forgot About</a></h2>
+            <p class="post-excerpt">Building a local subscription tracker in Python. Privacy-first, no monthly fee. How I cut my subscription spend by 60% in 3 months.</p>
+            <p class="post-meta">Personal Finance · Python · <a href="https://8837207235283.gumroad.com/l/uackeo">Get SubTracker →</a></p>
+        </div>
+    </section>
+
+    <section class="products">
+        <h2>Digital Products</h2>
+        <div class="product">
+            <a href="https://8837207235283.gumroad.com/l/tijdn">
+                <span class="product-name">CSV Sweeper</span>
+                <span class="product-price">$9+</span>
+            </a>
+        </div>
+        <div class="product">
+            <a href="https://8837207235283.gumroad.com/l/eaqoat">
+                <span class="product-name">PromptVault</span>
+                <span class="product-price">$15</span>
+            </a>
+        </div>
+        <div class="product">
+            <a href="https://8837207235283.gumroad.com/l/cs-student-os">
+                <span class="product-name">CS Student OS</span>
+                <span class="product-price">$12+</span>
+            </a>
+        </div>
+        <div class="product">
+            <a href="https://8837207235283.gumroad.com/l/uackeo">
+                <span class="product-name">SubTracker</span>
+                <span class="product-price">$5+</span>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>Follow on <a href="https://github.com/tlyyxjz">GitHub</a> · <a href="https://8837207235283.gumroad.com/">Gumroad</a></p>
+        <p style="margin-top: 8px;">© 2026 tlyyxjz. Built with care.</p>
+    </footer>
+</body>
+</html>
