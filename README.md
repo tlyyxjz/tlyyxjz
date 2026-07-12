@@ -11,6 +11,13 @@ I'm a 19-year-old CS student and developer building tools people actually use. C
 | **CS Student OS** | All-in-one Notion template for CS students — GPA, LeetCode, internships | $12+ | [Buy →](https://8837207235283.gumroad.com/l/cs-student-os) |
 | **SubTracker** | Local subscription tracker — stop paying for what you forgot | $5+ | [Buy →](https://8837207235283.gumroad.com/l/uackeo) |
 
+### 📝 Latest Blog Posts
+
+- **[I Built a Tool to Clean Messy CSV Files. Here's Every Bug I Hit.](posts/csv-sweeper.md)** — Encoding detection, formula injection, memory bombs, and undo stacks. A Python deep-dive.
+- **[I Built a Chrome Extension to Manage 200+ AI Prompts](posts/promptvault.md)** — MV3 architecture, content script injection across ChatGPT/Claude/Gemini, and the CSP nightmares along the way.
+- **[How I Built a Notion OS for My CS Degree](posts/cs-student-os.md)** — GPA tracking, LeetCode spaced repetition, internship pipeline — all in one Notion workspace.
+- **[I Was Bleeding $89/Month on Subscriptions I Forgot About](posts/subtracker.md)** — Building a local subscription tracker in Python. Privacy-first, no monthly fee.
+
 ### 🔧 Open Source Projects
 
 - **[CSV Sweeper](https://github.com/tlyyxjz/csv-sweeper-landing)** — Desktop app (Python + Go) that cleans messy CSV files in seconds. [Landing Page →](https://tlyyxjz.github.io/csv-sweeper-landing/)
