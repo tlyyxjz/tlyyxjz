@@ -1,81 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Xjz
 
-I'm a 19-year-old CS student and developer building tools people actually use. Currently shipping products in **Python**, **Go**, and **Chrome Extensions**.
+> 19yo CS student @ Shanghai Jianqiao University · Building AI tools & SaaS
 
-### 🚀 Digital Products
+## 🚀 What I'm Building
 
-| Product | Description | Price | Link |
-|---------|-------------|-------|------|
-| **CSV Sweeper** | Clean messy CSV files in seconds — dedup, filter, transform | $9+ | [Buy →](https://8837207235283.gumroad.com/l/tijdn) |
-| **PromptVault** | Chrome Extension to save & insert AI prompts in one click | $15 | [Buy →](https://8837207235283.gumroad.com/l/eaqoat) |
-| **CS Student OS** | All-in-one Notion template for CS students — GPA, LeetCode, internships | $12+ | [Buy →](https://8837207235283.gumroad.com/l/cs-student-os) |
-| **SubTracker** | Local subscription tracker — stop paying for what you forgot | $5+ | [Buy →](https://8837207235283.gumroad.com/l/uackeo) |
+- 🛡️ **PromptVault** - AI prompt manager Chrome extension ([Pro $5](https://8837207235283.gumroad.com/l/gygzyp))
+- 🧹 **CSV Sweeper** - AI data cleaning tool ([Free](https://github.com/tlyyxjz/csv-cleaner-free) | [Coze Bot](https://www.coze.cn/space/7651161401419431936/bot/7662223944992276520))
+- 📚 **AI Coding Prompts Pack** - 100+ prompts for developers ([$9](https://8837207235283.gumroad.com/l/dlxjef))
+- 🐍 **Python Scripts Bundle** - 20+ automation scripts ([$7](https://8837207235283.gumroad.com/l/orbtk))
 
-### 📝 Latest Blog Posts
+## 🛠 Tech Stack
 
-- **[I Built a Tool to Clean Messy CSV Files. Here's Every Bug I Hit.](posts/csv-sweeper.md)** — Encoding detection, formula injection, memory bombs, and undo stacks. A Python deep-dive.
-- **[I Built a Chrome Extension to Manage 200+ AI Prompts](posts/promptvault.md)** — MV3 architecture, content script injection across ChatGPT/Claude/Gemini, and the CSP nightmares along the way.
-- **[How I Built a Notion OS for My CS Degree](posts/cs-student-os.md)** — GPA tracking, LeetCode spaced repetition, internship pipeline — all in one Notion workspace.
-- **[I Was Bleeding $89/Month on Subscriptions I Forgot About](posts/subtracker.md)** — Building a local subscription tracker in Python. Privacy-first, no monthly fee.
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![Go](https://img.shields.io/badge/-Go-black?logo=go)
+![JavaScript](https://img.shields.io/badge/-JS-black?logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)
+![AI Tools](https://img.shields.io/badge/-AI%20Tools-black?logo=openai)
 
-### 🔧 Open Source Projects
+## 📊 GitHub Stats
 
-- **[CSV Sweeper](https://github.com/tlyyxjz/csv-sweeper-landing)** — Desktop app (Python + Go) that cleans messy CSV files in seconds. [Landing Page →](https://tlyyxjz.github.io/csv-sweeper-landing/)
-- **[PromptVault](https://github.com/tlyyxjz/promptvault)** — Chrome Extension to manage AI prompts across ChatGPT/Claude/Gemini.
-- **DevFlow** — Go REST API with JWT auth, WebSocket, Redis rate limiting, 87% test coverage.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlyyxjz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlyyxjz&layout=compact&theme=dark)
 
-### 🛠 Tech Stack
+## 💼 Hire Me
 
-```
-Python  |  Go  |  JavaScript  |  Chrome Extensions
-pandas  |  Gin  |  GORM  |  Redis  |  Docker  |  PostgreSQL
-Data Processing  |  REST APIs  |  Clean Architecture
-```
+- 🐍 Python script customization - RMB 50 on Xianyu
+- 🌐 Website development - RMB 200 on Xianyu
+- 📊 Data analysis - RMB 60 on Xianyu
+- 📝 Programming tutoring - RMB 40 on Xianyu
 
-### 📫 Reach Me
+## 📫 Connect
 
-- **Gumroad**: [My digital products](https://8837207235283.gumroad.com/)
-- **Fiverr**: Available for freelance work
-- **Email**: 13566878907@163.com
+- 📧 Email: 3069969677@qq.com
+- 🛒 [Gumroad Store](https://8837207235283.gumroad.com)
+- 🤖 [Coze Store](https://www.coze.cn/space/7651161401419431936)
 
 ---
 
-*"I'd rather 2,400 people pay $9 than 24 people pay $90."*
-
-
-## 🆓 Free Online Tools
-
-### CSV Tools
-| Tool | Description | Link |
-|------|-------------|------|
-| CSV Cleaner Free | Remove duplicates, trim whitespace, delete empty rows | [csv-cleaner-free](https://tlyyxjz.github.io/csv-cleaner-free/) |
-| CSV to JSON Converter | Convert CSV to JSON with nested object support | [csv-to-json](https://tlyyxjz.github.io/free-dev-tools/csv_to_json.html) |
-| CSV Tools Comparison | Compare CSV cleaning tools side by side | [csv-tools-comparison](https://tlyyxjz.github.io/csv-tools-comparison/) |
-| Awesome CSV Tools | Curated list of CSV tools | [awesome-csv-tools](https://github.com/tlyyxjz/awesome-csv-tools) |
-
-### Developer Tools
-| Tool | Description | Link |
-|------|-------------|------|
-| JSON Formatter | Beautify, minify, and validate JSON | [json-formatter](https://tlyyxjz.github.io/free-dev-tools/json_formatter.html) |
-| Base64 Encoder/Decoder | Encode/decode Base64 with UTF-8 support | [base64-tool](https://tlyyxjz.github.io/free-dev-tools/base64_tool.html) |
-| Dev Toolbox | All free tools in one place | [free-dev-tools](https://tlyyxjz.github.io/free-dev-tools/) |
-
-### Stores & Blogs
-| Site | Description | Link |
-|------|-------------|------|
-| Digital Store | All products in one place | [digital-store](https://tlyyxjz.github.io/digital-store/) |
-| Tech Blog | Development tutorials and articles | [blog](https://tlyyxjz.github.io/tlyyxjz/) |
-
-
-## 🏷️ Discount Codes
-
-Save on our premium products with these active discount codes:
-
-| Code | Discount | Applicable To |
-|------|----------|---------------|
-| `SAVE20` | 20% OFF | ALL products |
-| `LAUNCH50` | 50% OFF | CS Student OS |
-| `CSV15` | 15% OFF | CSV Sweeper |
-| `PROMPT10` | 10% OFF | PromptVault |
-
-👉 [View all discount codes](https://tlyyxjz.github.io/digital-store/discounts.html)
+<p align="center">⭐ Star my repos if they help you!</p>
