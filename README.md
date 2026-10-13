@@ -10,7 +10,7 @@
 |---|---|---|
 | 🏆 **[标小智 BidAgent](https://github.com/tlyyxjz/BidAgent)** | 面向供应链金融贷前尽调的**可验证招投标数据引擎**（GOAI 2026 · AI+金融 · 复赛） | LLM 只生成候选、确定性程序验证、无依据不输出；2435 tests · 金标 620 篇 · 单篇核验 <1 分钱 |
 | 🔍 **深问 DeepProbe** | AI 模拟面试评估系统——每个评价必须绑定面试实录证据 | 在线演示：[0265afdb3094404bb1571280741872c3.app.workbuddy.link](https://0265afdb3094404bb1571280741872c3.app.workbuddy.link) |
-| 🐝 **[HiveSwarm](https://github.com/tlyyxjz/HiveSwarm)** | 多智能体协调框架：**技能按需借还（borrow/return）、用完即焚的 Agent** | 230 tests · 对比 AutoGen/CrewAI 的差异化机制探索 |
+| 🐝 **[HiveSwarm](https://github.com/tlyyxjz/HiveSwarm)** | 多智能体协调框架：**技能按需借还（borrow/return）、用完即焚的 Agent** | CI 637 tests（1 skipped） · 核心差异化：结构化失败修复——诊断输出是装配变更，不是一句话 |
 
 ## 🧵 开源贡献
 
